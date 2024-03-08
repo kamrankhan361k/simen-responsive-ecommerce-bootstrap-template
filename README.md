@@ -1,0 +1,1 @@
+# simen-responsive-ecommerce-bootstrap-template
